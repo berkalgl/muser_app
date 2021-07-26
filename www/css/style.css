@@ -1,0 +1,17 @@
+.pane {
+    background: url('../img/bg.png') no-repeat;
+    background-size: cover;
+}
+
+.bckgrnd{
+    background: url('../img/bg.png') no-repeat;
+    background-size: cover;
+}
+.item{
+	background-color: transparent !important;
+    border-color: #696969;
+}
+.item-content{
+	background-color: transparent !important;
+    border-color: #696969;
+}
